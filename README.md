@@ -6,6 +6,6 @@
 - Implementing with Python
 
 
-## Python Stock Bot
+## Python Stock App
 
 ![day36](https://user-images.githubusercontent.com/98851253/156605605-16ffa52a-3bbe-4a88-a43c-9694758414a7.gif)
